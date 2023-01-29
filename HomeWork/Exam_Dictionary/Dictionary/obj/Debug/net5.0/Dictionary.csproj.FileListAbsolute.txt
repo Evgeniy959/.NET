@@ -1,0 +1,16 @@
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Exam_Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.csproj.AssemblyReference.cache
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Exam_Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Exam_Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfoInputs.cache
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Exam_Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfo.cs
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Exam_Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Exam_Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.exe
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Exam_Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.deps.json
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Exam_Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.json
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Exam_Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.dev.json
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Exam_Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.dll
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Exam_Dictionary\Dictionary\bin\Debug\net5.0\ref\Dictionary.dll
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Exam_Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.pdb
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Exam_Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.dll
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Exam_Dictionary\Dictionary\obj\Debug\net5.0\ref\Dictionary.dll
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Exam_Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.pdb
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Exam_Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.genruntimeconfig.cache

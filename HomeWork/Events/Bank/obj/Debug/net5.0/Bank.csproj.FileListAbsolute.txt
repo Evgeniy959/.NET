@@ -1,0 +1,16 @@
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Events\Bank\bin\Debug\net5.0\Bank.exe
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Events\Bank\bin\Debug\net5.0\Bank.deps.json
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Events\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Events\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Events\Bank\bin\Debug\net5.0\Bank.dll
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Events\Bank\bin\Debug\net5.0\ref\Bank.dll
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Events\Bank\bin\Debug\net5.0\Bank.pdb
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Events\Bank\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Events\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Events\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Events\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Events\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Events\Bank\obj\Debug\net5.0\Bank.dll
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Events\Bank\obj\Debug\net5.0\ref\Bank.dll
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Events\Bank\obj\Debug\net5.0\Bank.pdb
+D:\Сохранено\Downloads\Учеба\C#\Проекты C#\repos\HomeWork\Events\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
