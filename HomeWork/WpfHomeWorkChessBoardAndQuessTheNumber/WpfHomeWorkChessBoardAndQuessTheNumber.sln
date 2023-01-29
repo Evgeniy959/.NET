@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuessTheNumber", "QuessTheNumber\QuessTheNumber.csproj", "{FBDEC0AC-FB46-4543-9BB4-95E80C5F7FFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessBoard", "ChessBoard\ChessBoard.csproj", "{655174D4-46E7-44F7-9F41-56EA796A7B01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBDEC0AC-FB46-4543-9BB4-95E80C5F7FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDEC0AC-FB46-4543-9BB4-95E80C5F7FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDEC0AC-FB46-4543-9BB4-95E80C5F7FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDEC0AC-FB46-4543-9BB4-95E80C5F7FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655174D4-46E7-44F7-9F41-56EA796A7B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655174D4-46E7-44F7-9F41-56EA796A7B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655174D4-46E7-44F7-9F41-56EA796A7B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655174D4-46E7-44F7-9F41-56EA796A7B01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C22AA91-AD4E-4862-9082-6652EF5A2FF8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfListPhone.PersonDel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfListPhone"
+        mc:Ignorable="d"
+        Title="PersonDel" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Label  Content="Введите фамилию, имя, телефон " Height="36" Width="444"/>
+            <TextBox x:Name="AddLastName"  TextWrapping="Wrap" Width="444" Height="68"/>
+            <TextBox x:Name="AddFirstName"  TextWrapping="Wrap" Width="444" Height="68"/>
+            <TextBox x:Name="AddPhone"  TextWrapping="Wrap" Width="444" Height="68"/>
+            <Button  x:Name="AddButton" Content="Добавить" Height="45" Width="444" Click="DelButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

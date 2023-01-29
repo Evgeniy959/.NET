@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfListPhone.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfListPhone"
+        mc:Ignorable="d"
+        Title="ListPhone" Height="418" Width="700">
+    <StackPanel x:Name="stackPanel">
+        <DockPanel Height="50" LastChildFill="False">
+            <Button x:Name="Add" Content="Add" Margin="10,0,0,0" FontSize="20" Cursor="Pen" Padding="10,1,10,1" Click="Add_Click" Width="58"/>
+            <Button x:Name="Delete" Content="Delete" Margin="10,0,0,0" FontSize="20" Padding="10,1,10,1" Click="Delete_Click" Width="79" />
+            <Button x:Name="Clear" Content="Clear" Margin="10,0,0,0" FontSize="20" Padding="10,1,10,1" Click="Clear_Click" Width="79" />
+        </DockPanel>
+
+        <Grid Background="Aqua">
+            <ListView x:Name="ListOfPhone" d:DataContext="{d:SampleData Person |(in WpfListPhone )}"
+                      MouseDoubleClick="ListOfStudents_OnMouseDoubleClick">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn DisplayMemberBinding="{Binding Path=LastName}">Фамилия</GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding Path=FirstName}">Имя</GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding Path=Phones}">Телефон</GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+
+        </Grid>
+    </StackPanel>
+</Window>
