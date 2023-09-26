@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "B+WCLeiQrAx1IYtRBQnx48O2z97ANCFJt8FeVzCZ97cuRyQVIEqkoErFUXfSpRx9hXx1dtCyzAo0E/9nEwQ7Gw==",
+  "success": true,
+  "projectFilePath": "D:\\Сохранено\\Downloads\\Учеба\\C#\\Проекты C#\\Clones\\ColorARGB_developListBox\\ColorARGB\\ColorARGB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
